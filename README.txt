@@ -1,0 +1,7 @@
+Solid is a high-quality Tailwind CSS template that has been specifically crafted for startups, SaaS, and software websites. It offers a wide range of essential sections, elements, and pages needed to create a fully-featured website for any SaaS, software, or startup website.
+
+With Solid, you can create a complete website with ease and efficiency, without having to spend time creating sections and components from scratch. Solid is the perfect choice for creating a top-notch user experience, whether you're building a website for a startup, a web app, a SaaS, or a large software company.
+
+This template's homepage includes a compelling hero area, logos of associated brands, a features section, a about section, another features section with tabs, counters, and star ratings, integration options, obvious call-to-actions, a FAQ section with accordions, a testimonials section, pricing tables, a contact page, a blog, and a unique footer.
+
+The design also comes with all of the required external pages - like login, registration, blog grids, and single blog pages, among others. This extensive collection of pages offers all the tools required to develop a feature-rich, comprehensive, and aesthetically pleasing website or landing page for software, a web application, or SaaS.
